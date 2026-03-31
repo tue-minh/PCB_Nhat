@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tue_mpu6050")(type "KiCad")(uri "E:/Project_Kicad/LIB/IC/tue_MPU6050/MPU-6050.kicad_sym")(options "")(descr ""))
+  (lib (name "tue_ams1117")(type "KiCad")(uri "E:/Project_Kicad/LIB/IC/tue_AMS1117/tue_ams1117.kicad_sym")(options "")(descr ""))
+)

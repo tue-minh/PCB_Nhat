@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tue_USB_C")(type "KiCad")(uri "E:/Project_Kicad/LIB/Usb/TypeC_16P/Connectors_USB.pretty")(options "")(descr ""))
+  (lib (name "tue_mpu6050")(type "KiCad")(uri "E:/Project_Kicad/LIB/IC/tue_MPU6050")(options "")(descr ""))
+  (lib (name "tue_ams1117")(type "KiCad")(uri "E:/Project_Kicad/LIB/IC/tue_AMS1117/tue_ams1117.pretty")(options "")(descr ""))
+)
