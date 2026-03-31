@@ -36,6 +36,16 @@
 ## 📝 Notes
 - Kích thước mạch: 60 x 40 (mm)
 - Khoảng cách lỗ: 54 x 34 (mm)
+- Pinout: 
+
+| ESP32  | HX711 | MPU6050 |
+|--------|-------|---------|
+| GPIO19 | DOUT1 |         |
+| GPIO18 | SCK1  |         |
+| GPIO16 | DOUT2 |         |
+| GPIO17 | SCK2  |         |
+| GPIO21 |       | SDA     |
+| GPIO22 |       | SCL     |
 
 ---
 
