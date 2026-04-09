@@ -6,14 +6,17 @@
 
 ### 🔵 Front View
 <p align="center">
-  <img src="image/front.png" alt="Front PCB" width="600"/>
+  <img src="image/front.png" alt="Front PCB" width="600" height="700"/>
+  <img src="image/IMG_2143.jpg" alt="Front PCB" width="600" height="700"/>
 </p>
 
 ---
 
 ### 🔴 Back View
 <p align="center">
-  <img src="image/back.png" alt="Back PCB" width="600"/>
+  <img src="image/back.png" alt="Back PCB" width="600" height="700"/>
+  <img src="image/IMG_2144.jpg" alt="Back PCB" width="600" height="700"/>
+
 </p>
 
 ---
